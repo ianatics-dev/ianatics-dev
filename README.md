@@ -1,16 +1,28 @@
 ### Hi there 👋
 
-<!--
-**ianatics-dev/ianatics-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> 
+  <a href="https://github.com/ianatics-dev/ianatics-dev/">
+    <img src="https://komarev.com/ghpvc/?username=ianatics-dev" alt="ianatics-dev" />
+  </a>
+  <a href="http://twitter.com/ianatics123">
+    <img height="20" src="https://img.shields.io/twitter/follow/ianatics123?label=Twitter&logo=twitter&style=flat" />
+  </a>
+  <a href="https://github.com/ianatics-dev">
+    <img height="20" src="https://img.shields.io/github/followers/ianatics-dev?label=follow&logo=github&style=flat" />
+  </a>
+<!--   <a href="https://www.reddit.com/user/arceduardvincent">
+    <img height="20" src="https://img.shields.io/reddit/user-karma/combined/arceduardvincent?label=Reddit&logo=reddit&style=flat" />
+  </a> -->
+  <!-- <a href="https://stackoverflow.com/users/3788603/arceduardvincent">
+    <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/3788603?label=StackOverflow&logo=stack-overflow&style=flat" />
+  </a> -->
+</p>
 
-Here are some ideas to get you started:
+[![Eduard GitHub stats](https://github-readme-stats.vercel.app/api?username=arceduardvincent&show_icons=true&theme=highcontrast)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arceduardvincent&theme&theme=dark)](https://git.io/streak-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech stack
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arceduardvincent)](https://github.com/anuraghazra/github-readme-stats)
+
+
